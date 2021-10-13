@@ -15,16 +15,16 @@
 - Python :snake:
 - Android :iphone:
 
-
-## *Contacts* :email:
-  Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-felipe-sarmento-dos-reis-828096217/)!
-  
 ## *Learning* :books:
 
 - Sphinx
 - React
 - Asp.NET
 - Flutter
+
+## *Contacts* :email:
+  Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-felipe-sarmento-dos-reis-828096217/)!
+  
 
 
 <!---
