@@ -6,17 +6,25 @@
 ## *Work :computer:*
   Estagiário na [CPqD](https://www.cpqd.com.br/) em Soluções de Blockchain!
   
-## *Languages :keyboard:*
+## *Knowledges :keyboard:*
 - Javascript :yellow_square:
 - Java :coffee:
 - C++ :blue_square:
 - HTML, CSS :orange_square::blue_square:
 - SQL :card_file_box:
 - Python :snake:
+- Android :iphone:
 
 
 ## *Contacts* :email:
   Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-felipe-sarmento-dos-reis-828096217/)!
+  
+## *Learning* :books:
+
+- Sphinx
+- React
+- Asp.NET
+- Flutter
 
 
 <!---
