@@ -17,10 +17,7 @@
 
 ## *Learning* :books:
 
-- Sphinx
-- React
-- Asp.NET
-- Flutter
+- C++
 
 ## *Contacts* :email:
   Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-felipe-sarmento-dos-reis-828096217/)!
