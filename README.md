@@ -1,10 +1,10 @@
 # :globe_with_meridians: *Hello World!* :globe_with_meridians:
 
 ## *Olá pessoal! :wave:* 
-  Me chamo Leonardo e atualmente estou cursando desenvolvimento de sistemas no Colégio Técnico de Campinas da Unicamp.
+  Me chamo Leonardo e atualmente estou cursando Engenharia de Software no Instituto Infnet.
 
 ## *Work :computer:*
-  Estagiário na [CPqD](https://www.cpqd.com.br/) em Soluções de Blockchain!
+  Programador II na [CPqD](https://www.cpqd.com.br/) em Soluções de Blockchain!
   
 ## *Knowledges :keyboard:*
 - Javascript :yellow_square:
