@@ -7,6 +7,7 @@
   Programador II na [CPqD](https://www.cpqd.com.br/) em Soluções de Blockchain!
   
 ## *Knowledges :keyboard:*
+- Typescript :blue_square:
 - Javascript :yellow_square:
 - Java :coffee:
 - C++ :blue_square:
