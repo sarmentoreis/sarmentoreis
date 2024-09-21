@@ -11,8 +11,8 @@
 - Javascript :yellow_square:
 - Java :coffee:
 - Golang ⏩
+- React, HTML, CSS :orange_square::blue_square:
 - C++ :blue_square:
-- HTML, CSS :orange_square::blue_square:
 - SQL :card_file_box:
 - Python :snake:
 - Android :iphone:
