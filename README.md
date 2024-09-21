@@ -10,6 +10,7 @@
 - Typescript :blue_square:
 - Javascript :yellow_square:
 - Java :coffee:
+- Golang ⏩
 - C++ :blue_square:
 - HTML, CSS :orange_square::blue_square:
 - SQL :card_file_box:
